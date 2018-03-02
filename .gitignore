@@ -13,6 +13,7 @@ typings/
 
 # Misc
 tmp/
+package-lock.json
 
 # Mac OSX Finder files.
 **/.DS_Store
